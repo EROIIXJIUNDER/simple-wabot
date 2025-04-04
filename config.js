@@ -5,7 +5,7 @@ const moment = require("moment-timezone");
 global.owner = ["62895322391225"];
 global.mods = ["62895322391225"]; // Moderator
 global.prems = ["6283867483321"]; // Premium
-global.numberbot = "6283867483321";
+global.numberbot = "9779811839489";
 global.nameowner = "@Asyl";
 global.nomorown = "62895322391225";
 
